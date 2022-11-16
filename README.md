@@ -3,3 +3,5 @@
     LAU-1高压电线路防外破智能监测系统采用先进的图像识别技术，连续监测输电线路外破行为，并对异常行为实时告警，具有安全可靠、成本低、实时性好、便于安装维护等优点，为输电线路防外破提供了最优解决方案。
 
 ![9612f85bcf2b12a966834ac2ebce95d](https://user-images.githubusercontent.com/56581736/202075014-2fd6bf63-afb8-4594-8120-a308519831a2.jpg)
+
+![装置图2](https://user-images.githubusercontent.com/56581736/202075366-1b99786f-4a88-430f-a9f5-d49dfac874b3.jpg)
